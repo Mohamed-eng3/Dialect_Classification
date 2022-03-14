@@ -1,6 +1,6 @@
 # Dialect Classification
 
-go to the file directory and in the shell type:
+go to the file directory and in the terminal type:
 
 pip install requirements.txt
 
